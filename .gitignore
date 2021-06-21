@@ -1,0 +1,12 @@
+node_modules/
+.vscode/
+npm-debug.log
+*.sublime-project
+.idea
+.bat
+debug.log
+yarn-error.log
+.DS_Store
+.history/
+dist/*
+yarn.lock
